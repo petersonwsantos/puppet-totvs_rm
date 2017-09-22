@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<RMSAliasData xmlns="http://tempuri.org/RMSAliasData.xsd">
+  <DbConfig>
+    <Alias>CorporeRM</Alias>
+    <DbType>SqlServer</DbType>
+    <DbProvider>SqlClient</DbProvider>
+    <DbServer>192.168.0.234</DbServer>
+    <DbName>RM1140_ENTHAL</DbName>
+    <UserName>SYSDBA</UserName>
+    <Password>masterkey</Password>
+    <RunService>false</RunService>
+  </DbConfig>
+</RMSAliasData>
